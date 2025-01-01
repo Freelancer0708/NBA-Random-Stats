@@ -53,8 +53,8 @@ export default function Home() {
     <div className="container">
       <h1>NBA Random Most Team Points Player</h1>
       <h2>Reach 100,000 pts with 5 Player</h2>
-      <p className="sum">Sum: {sum.toLocaleString()} pts</p>
-      <p className="result">Result: {result}</p>
+      <p className="sum">Total : {sum.toLocaleString()} pts</p>
+      <p className="result">Result : {result}</p>
       <section className="ramdom">
         {randomTeams.map((team, index) => (
           <div className={`box box0${index + 1}`} key={index}>
