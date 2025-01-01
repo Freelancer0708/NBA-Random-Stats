@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Milwaukee Bucks",
+        "games": {
+          "player": "Giannis Antetokounmpo",
+          "stats": 816
+        },
+        "minutesPlayed": {
+          "player": "Giannis Antetokounmpo",
+          "stats": 26785
+        },
+        "fieldGoals": {
+          "player": "Giannis Antetokounmpo",
+          "stats": 7039
+        },
+        "fieldGoalAttempts": {
+          "player": "Giannis Antetokounmpo",
+          "stats": 12850
+        },
+        "rebounds": {
+          "player": "Giannis Antetokounmpo",
+          "stats": 8010
+        },
+        "assists": {
+          "player": "Giannis Antetokounmpo",
+          "stats": 3999
+        },
+        "steals": {
+          "player": "Quinn Buckner",
+          "stats": 1042
+        },
+        "blocks": {
+          "player": "Giannis Antetokounmpo",
+          "stats": 1022
+        },
+        "points": {
+          "player": "Giannis Antetokounmpo",
+          "stats": 19287
+        }
+      }
+]

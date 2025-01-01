@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Los Angeles Clippers",
+        "games": {
+          "player": "DeAndre Jordan",
+          "stats": 750
+        },
+        "minutesPlayed": {
+          "player": "Randy Smith",
+          "stats": 24393
+        },
+        "fieldGoals": {
+          "player": "Randy Smith",
+          "stats": 5214
+        },
+        "fieldGoalAttempts": {
+          "player": "Randy Smith",
+          "stats": 11035
+        },
+        "rebounds": {
+          "player": "DeAndre Jordan",
+          "stats": 7988
+        },
+        "assists": {
+          "player": "Chris Paul",
+          "stats": 4023
+        },
+        "steals": {
+          "player": "Randy Smith",
+          "stats": 1072
+        },
+        "blocks": {
+          "player": "DeAndre Jordan",
+          "stats": 1277
+        },
+        "points": {
+          "player": "Randy Smith",
+          "stats": 12735
+        }
+      }
+]

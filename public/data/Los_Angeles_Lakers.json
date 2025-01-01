@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Los Angeles Lakers",
+        "games": {
+          "player": "Kobe Bryant",
+          "stats": 1346
+        },
+        "minutesPlayed": {
+          "player": "Kobe Bryant",
+          "stats": 48637
+        },
+        "fieldGoals": {
+          "player": "Kobe Bryant",
+          "stats": 11719
+        },
+        "fieldGoalAttempts": {
+          "player": "Kobe Bryant",
+          "stats": 26200
+        },
+        "rebounds": {
+          "player": "Elgin Baylor",
+          "stats": 11463
+        },
+        "assists": {
+          "player": "Magic Johnson",
+          "stats": 10141
+        },
+        "steals": {
+          "player": "Kobe Bryant",
+          "stats": 1944
+        },
+        "blocks": {
+          "player": "Kareem Abdul-Jabbar",
+          "stats": 2694
+        },
+        "points": {
+          "player": "Kobe Bryant",
+          "stats": 33643
+        }
+      }
+]

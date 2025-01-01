@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Phoenix Suns",
+        "games": {
+          "player": "Alvan Adams",
+          "stats": 988
+        },
+        "minutesPlayed": {
+          "player": "Alvan Adams",
+          "stats": 27203
+        },
+        "fieldGoals": {
+          "player": "Walter Davis",
+          "stats": 6497
+        },
+        "fieldGoalAttempts": {
+          "player": "Walter Davis",
+          "stats": 12497
+        },
+        "rebounds": {
+          "player": "Alvan Adams",
+          "stats": 6937
+        },
+        "assists": {
+          "player": "Steve Nash",
+          "stats": 6997
+        },
+        "steals": {
+          "player": "Alvan Adams",
+          "stats": 1289
+        },
+        "blocks": {
+          "player": "Larry Nance",
+          "stats": 940
+        },
+        "points": {
+          "player": "Walter Davis",
+          "stats": 15666
+        }
+      }
+]

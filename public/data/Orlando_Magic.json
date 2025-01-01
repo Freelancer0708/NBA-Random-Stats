@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Orlando Magic",
+        "games": {
+          "player": "Nick Anderson",
+          "stats": 692
+        },
+        "minutesPlayed": {
+          "player": "Dwight Howard",
+          "stats": 22471
+        },
+        "fieldGoals": {
+          "player": "Nikola Vučević",
+          "stats": 4490
+        },
+        "fieldGoalAttempts": {
+          "player": "Nikola Vučević",
+          "stats": 9003
+        },
+        "rebounds": {
+          "player": "Dwight Howard",
+          "stats": 8072
+        },
+        "assists": {
+          "player": "Jameer Nelson",
+          "stats": 3501
+        },
+        "steals": {
+          "player": "Nick Anderson",
+          "stats": 1004
+        },
+        "blocks": {
+          "player": "Dwight Howard",
+          "stats": 1344
+        },
+        "points": {
+          "player": "Dwight Howard",
+          "stats": 11435
+        }
+      }
+]

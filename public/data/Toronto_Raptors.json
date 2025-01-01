@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Toronto Raptors",
+        "games": {
+          "player": "DeMar DeRozan",
+          "stats": 675
+        },
+        "minutesPlayed": {
+          "player": "DeMar DeRozan",
+          "stats": 22986
+        },
+        "fieldGoals": {
+          "player": "DeMar DeRozan",
+          "stats": 4716
+        },
+        "fieldGoalAttempts": {
+          "player": "DeMar DeRozan",
+          "stats": 10532
+        },
+        "rebounds": {
+          "player": "Chris Bosh",
+          "stats": 4776
+        },
+        "assists": {
+          "player": "Kyle Lowry",
+          "stats": 4277
+        },
+        "steals": {
+          "player": "Kyle Lowry",
+          "stats": 873
+        },
+        "blocks": {
+          "player": "Chris Bosh",
+          "stats": 600
+        },
+        "points": {
+          "player": "DeMar DeRozan",
+          "stats": 13296
+        }
+      }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Portland Trail Blazers",
+        "games": {
+          "player": "Clyde Drexler",
+          "stats": 867
+        },
+        "minutesPlayed": {
+          "player": "Clyde Drexler",
+          "stats": 29496
+        },
+        "fieldGoals": {
+          "player": "Clyde Drexler",
+          "stats": 6889
+        },
+        "fieldGoalAttempts": {
+          "player": "Clyde Drexler",
+          "stats": 14425
+        },
+        "rebounds": {
+          "player": "LaMarcus Aldridge",
+          "stats": 5434
+        },
+        "assists": {
+          "player": "Terry Porter",
+          "stats": 5319
+        },
+        "steals": {
+          "player": "Clyde Drexler",
+          "stats": 1795
+        },
+        "blocks": {
+          "player": "Mychal Thompson",
+          "stats": 768
+        },
+        "points": {
+          "player": "Damian Lillard",
+          "stats": 19376
+        }
+      }
+]

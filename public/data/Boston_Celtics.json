@@ -1,0 +1,53 @@
+[
+    {
+        "team": "Boston Celtics",
+        "games": {
+          "player": "John Havlicek",
+          "stats": 1270
+        },
+        "minutesPlayed": {
+          "player": "John Havlicek",
+          "stats": 46471
+        },
+        "fieldGoals": {
+          "player": "John Havlicek",
+          "stats": 10513
+        },
+        "fieldGoalAttempts": {
+          "player": "John Havlicek",
+          "stats": 23930
+        },
+        "rebounds": {
+          "player": "Bill Russell",
+          "stats": 21620
+        },
+        "assists": {
+          "player": "Bob Cousy",
+          "stats": 6945
+        },
+        "steals": {
+          "player": "Paul Pierce",
+          "stats": 1583
+        },
+        "blocks": {
+          "player": "Robert Parish",
+          "stats": 1703
+        },
+        "points": {
+          "player": "John Havlicek",
+          "stats": 26395,
+          "guard": {
+            "player": "John Havlicek",
+            "stats": 26395
+          },
+          "forward": {
+            "player": "Paul Pierce",
+            "stats": 24021
+          },
+          "center": {
+            "player": "Robert Parish",
+            "stats": 18245
+          }
+        }
+      }
+]

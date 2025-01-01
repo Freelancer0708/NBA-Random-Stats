@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Cleveland Cavaliers",
+        "games": {
+          "player": "LeBron James",
+          "stats": 849
+        },
+        "minutesPlayed": {
+          "player": "LeBron James",
+          "stats": 33130
+        },
+        "fieldGoals": {
+          "player": "LeBron James",
+          "stats": 8369
+        },
+        "fieldGoalAttempts": {
+          "player": "LeBron James",
+          "stats": 17022
+        },
+        "rebounds": {
+          "player": "LeBron James",
+          "stats": 6190
+        },
+        "assists": {
+          "player": "LeBron James",
+          "stats": 6228
+        },
+        "steals": {
+          "player": "LeBron James",
+          "stats": 1376
+        },
+        "blocks": {
+          "player": "Zydrunas Ilgauskas",
+          "stats": 1269
+        },
+        "points": {
+          "player": "LeBron James",
+          "stats": 23119
+        }
+      }
+]

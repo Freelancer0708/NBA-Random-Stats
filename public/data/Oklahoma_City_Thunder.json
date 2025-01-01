@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Oklahoma City Thunder",
+        "games": {
+          "player": "Gary Payton",
+          "stats": 999
+        },
+        "minutesPlayed": {
+          "player": "Gary Payton",
+          "stats": 36858
+        },
+        "fieldGoals": {
+          "player": "Gary Payton",
+          "stats": 7292
+        },
+        "fieldGoalAttempts": {
+          "player": "Gary Payton",
+          "stats": 15562
+        },
+        "rebounds": {
+          "player": "Jack Sikma",
+          "stats": 7729
+        },
+        "assists": {
+          "player": "Gary Payton",
+          "stats": 7384
+        },
+        "steals": {
+          "player": "Gary Payton",
+          "stats": 2107
+        },
+        "blocks": {
+          "player": "Serge Ibaka",
+          "stats": 1300
+        },
+        "points": {
+          "player": "Russell Westbrook",
+          "stats": 18859
+        }
+      }
+]

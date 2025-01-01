@@ -1,0 +1,53 @@
+[
+    {
+        "team": "Brooklyn Nets",
+        "games": {
+          "player": "Buck Williams",
+          "stats": 635
+        },
+        "minutesPlayed": {
+          "player": "Buck Williams",
+          "stats": 23100
+        },
+        "fieldGoals": {
+          "player": "Brook Lopez",
+          "stats": 4044
+        },
+        "fieldGoalAttempts": {
+          "player": "Brook Lopez",
+          "stats": 7998
+        },
+        "rebounds": {
+          "player": "Buck Williams",
+          "stats": 7576
+        },
+        "assists": {
+          "player": "Jason Kidd",
+          "stats": 4620
+        },
+        "steals": {
+          "player": "Jason Kidd",
+          "stats": 950
+        },
+        "blocks": {
+          "player": "Brook Lopez",
+          "stats": 972
+        },
+        "points": {
+          "player": "Brook Lopez",
+          "stats": 10444,
+          "guard": {
+            "player": "Vince Carter",
+            "stats": 8834
+          },
+          "forward": {
+            "player": "Buck Williams",
+            "stats": 10440
+          },
+          "center": {
+            "player": "Brook Lopez",
+            "stats": 10444
+          }
+        }
+      }
+]

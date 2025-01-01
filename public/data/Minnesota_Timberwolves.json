@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Minnesota Timberwolves",
+        "games": {
+          "player": "Kevin Garnett",
+          "stats": 970
+        },
+        "minutesPlayed": {
+          "player": "Kevin Garnett",
+          "stats": 36189
+        },
+        "fieldGoals": {
+          "player": "Kevin Garnett",
+          "stats": 7647
+        },
+        "fieldGoalAttempts": {
+          "player": "Kevin Garnett",
+          "stats": 15560
+        },
+        "rebounds": {
+          "player": "Kevin Garnett",
+          "stats": 10718
+        },
+        "assists": {
+          "player": "Kevin Garnett",
+          "stats": 4216
+        },
+        "steals": {
+          "player": "Kevin Garnett",
+          "stats": 1315
+        },
+        "blocks": {
+          "player": "Kevin Garnett",
+          "stats": 1590
+        },
+        "points": {
+          "player": "Kevin Garnett",
+          "stats": 19201
+        }
+      }
+]

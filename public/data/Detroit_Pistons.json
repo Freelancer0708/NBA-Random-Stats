@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Detroit Pistons",
+        "games": {
+          "player": "Joe Dumars",
+          "stats": 1018
+        },
+        "minutesPlayed": {
+          "player": "Isiah Thomas",
+          "stats": 35516
+        },
+        "fieldGoals": {
+          "player": "Isiah Thomas",
+          "stats": 7194
+        },
+        "fieldGoalAttempts": {
+          "player": "Isiah Thomas",
+          "stats": 15904
+        },
+        "rebounds": {
+          "player": "Bill Laimbeer",
+          "stats": 9430
+        },
+        "assists": {
+          "player": "Isiah Thomas",
+          "stats": 9061
+        },
+        "steals": {
+          "player": "Isiah Thomas",
+          "stats": 1861
+        },
+        "blocks": {
+          "player": "Ben Wallace",
+          "stats": 1486
+        },
+        "points": {
+          "player": "Isiah Thomas",
+          "stats": 18822
+        }
+      }
+]

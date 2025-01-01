@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Miami Heat",
+        "games": {
+          "player": "Dwyane Wade",
+          "stats": 948
+        },
+        "minutesPlayed": {
+          "player": "Dwyane Wade",
+          "stats": 32912
+        },
+        "fieldGoals": {
+          "player": "Dwyane Wade",
+          "stats": 7842
+        },
+        "fieldGoalAttempts": {
+          "player": "Dwyane Wade",
+          "stats": 16227
+        },
+        "rebounds": {
+          "player": "Udonis Haslem",
+          "stats": 5791
+        },
+        "assists": {
+          "player": "Dwyane Wade",
+          "stats": 5310
+        },
+        "steals": {
+          "player": "Dwyane Wade",
+          "stats": 1492
+        },
+        "blocks": {
+          "player": "Alonzo Mourning",
+          "stats": 1625
+        },
+        "points": {
+          "player": "Dwyane Wade",
+          "stats": 21556
+        }
+      }
+]

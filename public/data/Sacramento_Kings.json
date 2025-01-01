@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Sacramento Kings",
+        "games": {
+          "player": "Sam Lacey",
+          "stats": 888
+        },
+        "minutesPlayed": {
+          "player": "Oscar Robertson",
+          "stats": 33088
+        },
+        "fieldGoals": {
+          "player": "Oscar Robertson",
+          "stats": 7713
+        },
+        "fieldGoalAttempts": {
+          "player": "Oscar Robertson",
+          "stats": 15785
+        },
+        "rebounds": {
+          "player": "Sam Lacey",
+          "stats": 9353
+        },
+        "assists": {
+          "player": "Oscar Robertson",
+          "stats": 7731
+        },
+        "steals": {
+          "player": "Sam Lacey",
+          "stats": 950
+        },
+        "blocks": {
+          "player": "Sam Lacey",
+          "stats": 1098
+        },
+        "points": {
+          "player": "Oscar Robertson",
+          "stats": 22009
+        }
+      }
+]

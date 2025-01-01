@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Utah Jazz",
+        "games": {
+          "player": "John Stockton",
+          "stats": 1504
+        },
+        "minutesPlayed": {
+          "player": "Karl Malone",
+          "stats": 53479
+        },
+        "fieldGoals": {
+          "player": "Karl Malone",
+          "stats": 13335
+        },
+        "fieldGoalAttempts": {
+          "player": "Karl Malone",
+          "stats": 25810
+        },
+        "rebounds": {
+          "player": "Karl Malone",
+          "stats": 14601
+        },
+        "assists": {
+          "player": "John Stockton",
+          "stats": 15806
+        },
+        "steals": {
+          "player": "John Stockton",
+          "stats": 3265
+        },
+        "blocks": {
+          "player": "Mark Eaton",
+          "stats": 3064
+        },
+        "points": {
+          "player": "Karl Malone",
+          "stats": 36374
+        }
+      }
+]

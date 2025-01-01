@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Indiana Pacers",
+        "games": {
+          "player": "Reggie Miller",
+          "stats": 1389
+        },
+        "minutesPlayed": {
+          "player": "Reggie Miller",
+          "stats": 47619
+        },
+        "fieldGoals": {
+          "player": "Reggie Miller",
+          "stats": 8241
+        },
+        "fieldGoalAttempts": {
+          "player": "Reggie Miller",
+          "stats": 17499
+        },
+        "rebounds": {
+          "player": "Mel Daniels",
+          "stats": 7643
+        },
+        "assists": {
+          "player": "Reggie Miller",
+          "stats": 4141
+        },
+        "steals": {
+          "player": "Reggie Miller",
+          "stats": 1505
+        },
+        "blocks": {
+          "player": "Myles Turner",
+          "stats": 1332
+        },
+        "points": {
+          "player": "Reggie Miller",
+          "stats": 25279
+        }
+      }
+]

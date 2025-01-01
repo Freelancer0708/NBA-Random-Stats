@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Golden State Warriors",
+        "games": {
+          "player": "Stephen Curry",
+          "stats": 982
+        },
+        "minutesPlayed": {
+          "player": "Stephen Curry",
+          "stats": 33535
+        },
+        "fieldGoals": {
+          "player": "Stephen Curry",
+          "stats": 8274
+        },
+        "fieldGoalAttempts": {
+          "player": "Stephen Curry",
+          "stats": 17533
+        },
+        "rebounds": {
+          "player": "Nate Thurmond",
+          "stats": 12771
+        },
+        "assists": {
+          "player": "Stephen Curry",
+          "stats": 6285
+        },
+        "steals": {
+          "player": "Stephen Curry",
+          "stats": 1503
+        },
+        "blocks": {
+          "player": "Adonal Foyle",
+          "stats": 1140
+        },
+        "points": {
+          "player": "Stephen Curry",
+          "stats": 24241
+        }
+      }
+]

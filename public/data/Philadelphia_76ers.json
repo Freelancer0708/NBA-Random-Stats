@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Philadelphia 76ers",
+        "games": {
+          "player": "Hal Greer",
+          "stats": 1122
+        },
+        "minutesPlayed": {
+          "player": "Hal Greer",
+          "stats": 39788
+        },
+        "fieldGoals": {
+          "player": "Hal Greer",
+          "stats": 8504
+        },
+        "fieldGoalAttempts": {
+          "player": "Hal Greer",
+          "stats": 18811
+        },
+        "rebounds": {
+          "player": "Dolph Schayes",
+          "stats": 11256
+        },
+        "assists": {
+          "player": "Maurice Cheeks",
+          "stats": 6212
+        },
+        "steals": {
+          "player": "Maurice Cheeks",
+          "stats": 1942
+        },
+        "blocks": {
+          "player": "Julius Erving",
+          "stats": 1293
+        },
+        "points": {
+          "player": "Hal Greer",
+          "stats": 21586
+        }
+      }
+]

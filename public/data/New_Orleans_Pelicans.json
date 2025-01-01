@@ -1,0 +1,41 @@
+[
+    {
+        "team": "New Orleans Pelicans",
+        "games": {
+          "player": "David West",
+          "stats": 530
+        },
+        "minutesPlayed": {
+          "player": "David West",
+          "stats": 17160
+        },
+        "fieldGoals": {
+          "player": "Anthony Davis",
+          "stats": 4153
+        },
+        "fieldGoalAttempts": {
+          "player": "Anthony Davis",
+          "stats": 8030
+        },
+        "rebounds": {
+          "player": "Anthony Davis",
+          "stats": 4906
+        },
+        "assists": {
+          "player": "Chris Paul",
+          "stats": 4228
+        },
+        "steals": {
+          "player": "Chris Paul",
+          "stats": 1010
+        },
+        "blocks": {
+          "player": "Anthony Davis",
+          "stats": 1121
+        },
+        "points": {
+          "player": "Anthony Davis",
+          "stats": 11059
+        }
+      }
+]

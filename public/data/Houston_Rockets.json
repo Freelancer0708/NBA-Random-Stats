@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Houston Rockets",
+        "games": {
+          "player": "Hakeem Olajuwon",
+          "stats": 1177
+        },
+        "minutesPlayed": {
+          "player": "Hakeem Olajuwon",
+          "stats": 42844
+        },
+        "fieldGoals": {
+          "player": "Hakeem Olajuwon",
+          "stats": 10555
+        },
+        "fieldGoalAttempts": {
+          "player": "Hakeem Olajuwon",
+          "stats": 20573
+        },
+        "rebounds": {
+          "player": "Hakeem Olajuwon",
+          "stats": 13382
+        },
+        "assists": {
+          "player": "James Harden",
+          "stats": 4796
+        },
+        "steals": {
+          "player": "Hakeem Olajuwon",
+          "stats": 2088
+        },
+        "blocks": {
+          "player": "Hakeem Olajuwon",
+          "stats": 3740
+        },
+        "points": {
+          "player": "Hakeem Olajuwon",
+          "stats": 26511
+        }
+      }
+]

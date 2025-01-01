@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Memphis Grizzlies",
+        "games": {
+          "player": "Mike Conley",
+          "stats": 788
+        },
+        "minutesPlayed": {
+          "player": "Marc Gasol",
+          "stats": 25917
+        },
+        "fieldGoals": {
+          "player": "Marc Gasol",
+          "stats": 4341
+        },
+        "fieldGoalAttempts": {
+          "player": "Mike Conley",
+          "stats": 9484
+        },
+        "rebounds": {
+          "player": "Marc Gasol",
+          "stats": 5942
+        },
+        "assists": {
+          "player": "Mike Conley",
+          "stats": 4509
+        },
+        "steals": {
+          "player": "Mike Conley",
+          "stats": 1161
+        },
+        "blocks": {
+          "player": "Marc Gasol",
+          "stats": 1135
+        },
+        "points": {
+          "player": "Mike Conley",
+          "stats": 11733
+        }
+      }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Chicago Bulls",
+        "games": {
+          "player": "Michael Jordan",
+          "stats": 930
+        },
+        "minutesPlayed": {
+          "player": "Michael Jordan",
+          "stats": 35887
+        },
+        "fieldGoals": {
+          "player": "Michael Jordan",
+          "stats": 10962
+        },
+        "fieldGoalAttempts": {
+          "player": "Michael Jordan",
+          "stats": 21686
+        },
+        "rebounds": {
+          "player": "Michael Jordan",
+          "stats": 5836
+        },
+        "assists": {
+          "player": "Michael Jordan",
+          "stats": 5012
+        },
+        "steals": {
+          "player": "Michael Jordan",
+          "stats": 2306
+        },
+        "blocks": {
+          "player": "Artis Gilmore",
+          "stats": 1029
+        },
+        "points": {
+          "player": "Michael Jordan",
+          "stats": 29277
+        }
+      }
+]

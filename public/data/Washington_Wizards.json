@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Washington Wizards",
+        "games": {
+          "player": "Wes Unseld",
+          "stats": 984
+        },
+        "minutesPlayed": {
+          "player": "Wes Unseld",
+          "stats": 35832
+        },
+        "fieldGoals": {
+          "player": "Elvin Hayes",
+          "stats": 6251
+        },
+        "fieldGoalAttempts": {
+          "player": "Elvin Hayes",
+          "stats": 13658
+        },
+        "rebounds": {
+          "player": "Wes Unseld",
+          "stats": 13769
+        },
+        "assists": {
+          "player": "John Wall",
+          "stats": 5282
+        },
+        "steals": {
+          "player": "John Wall",
+          "stats": 976
+        },
+        "blocks": {
+          "player": "Elvin Hayes",
+          "stats": 1558
+        },
+        "points": {
+          "player": "Elvin Hayes",
+          "stats": 15551
+        }
+      }
+]

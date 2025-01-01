@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Dallas Mavericks",
+        "games": {
+          "player": "Dirk Nowitzki",
+          "stats": 1522
+        },
+        "minutesPlayed": {
+          "player": "Dirk Nowitzki",
+          "stats": 51368
+        },
+        "fieldGoals": {
+          "player": "Dirk Nowitzki",
+          "stats": 11169
+        },
+        "fieldGoalAttempts": {
+          "player": "Dirk Nowitzki",
+          "stats": 23734
+        },
+        "rebounds": {
+          "player": "Dirk Nowitzki",
+          "stats": 11489
+        },
+        "assists": {
+          "player": "Derek Harper",
+          "stats": 5111
+        },
+        "steals": {
+          "player": "Derek Harper",
+          "stats": 1551
+        },
+        "blocks": {
+          "player": "Dirk Nowitzki",
+          "stats": 1281
+        },
+        "points": {
+          "player": "Dirk Nowitzki",
+          "stats": 31560
+        }
+      }
+]

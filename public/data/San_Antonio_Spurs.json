@@ -1,0 +1,41 @@
+[
+    {
+        "team": "San Antonio Spurs",
+        "games": {
+          "player": "Tim Duncan",
+          "stats": 1392
+        },
+        "minutesPlayed": {
+          "player": "Tim Duncan",
+          "stats": 47368
+        },
+        "fieldGoals": {
+          "player": "Tim Duncan",
+          "stats": 10285
+        },
+        "fieldGoalAttempts": {
+          "player": "Tim Duncan",
+          "stats": 20334
+        },
+        "rebounds": {
+          "player": "Tim Duncan",
+          "stats": 15091
+        },
+        "assists": {
+          "player": "Tony Parker",
+          "stats": 6829
+        },
+        "steals": {
+          "player": "Manu Ginóbili",
+          "stats": 1392
+        },
+        "blocks": {
+          "player": "Tim Duncan",
+          "stats": 3020
+        },
+        "points": {
+          "player": "Tim Duncan",
+          "stats": 26496
+        }
+      }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "team": "Denver Nuggets",
+        "games": {
+          "player": "Alex English",
+          "stats": 837
+        },
+        "minutesPlayed": {
+          "player": "Alex English",
+          "stats": 29893
+        },
+        "fieldGoals": {
+          "player": "Alex English",
+          "stats": 8953
+        },
+        "fieldGoalAttempts": {
+          "player": "Alex English",
+          "stats": 17604
+        },
+        "rebounds": {
+          "player": "Nikola Jokić",
+          "stats": 7609
+        },
+        "assists": {
+          "player": "Nikola Jokić",
+          "stats": 4934
+        },
+        "steals": {
+          "player": "Fat Lever",
+          "stats": 1167
+        },
+        "blocks": {
+          "player": "Dikembe Mutombo",
+          "stats": 1486
+        },
+        "points": {
+          "player": "Alex English",
+          "stats": 21645
+        }
+      }
+]

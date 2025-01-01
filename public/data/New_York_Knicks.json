@@ -1,0 +1,41 @@
+[
+    {
+        "team": "New York Knicks",
+        "games": {
+          "player": "Patrick Ewing",
+          "stats": 1039
+        },
+        "minutesPlayed": {
+          "player": "Patrick Ewing",
+          "stats": 37586
+        },
+        "fieldGoals": {
+          "player": "Patrick Ewing",
+          "stats": 9260
+        },
+        "fieldGoalAttempts": {
+          "player": "Patrick Ewing",
+          "stats": 18224
+        },
+        "rebounds": {
+          "player": "Patrick Ewing",
+          "stats": 10759
+        },
+        "assists": {
+          "player": "Walt Frazier",
+          "stats": 4791
+        },
+        "steals": {
+          "player": "Patrick Ewing",
+          "stats": 1061
+        },
+        "blocks": {
+          "player": "Patrick Ewing",
+          "stats": 2758
+        },
+        "points": {
+          "player": "Patrick Ewing",
+          "stats": 23665
+        }
+      }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "team": "Atlanta Hawks",
+        "games": {
+          "player": "Dominique Wilkins",
+          "stats": 882
+        },
+        "minutesPlayed": {
+          "player": "Dominique Wilkins",
+          "stats": 32545
+        },
+        "fieldGoals": {
+          "player": "Dominique Wilkins",
+          "stats": 8752
+        },
+        "fieldGoalAttempts": {
+          "player": "Dominique Wilkins",
+          "stats": 18743
+        },
+        "rebounds": {
+          "player": "Bob Pettit",
+          "stats": 12849
+        },
+        "assists": {
+          "player": "Trae Young",
+          "stats": 4243
+        },
+        "steals": {
+          "player": "Mookie Blaylock",
+          "stats": 1321
+        },
+        "blocks": {
+          "player": "Tree Rollins",
+          "stats": 2283
+        },
+        "points": {
+          "player": "Dominique Wilkins",
+          "stats": 23292,
+          "guard": {
+            "player": "Lou Hudson",
+            "stats": 16049
+          },
+          "forward": {
+            "player": "Dominique Wilkins",
+            "stats": 23292
+          },
+          "center": {
+            "player": "Bob Pettit",
+            "stats": 20880
+          }
+        }
+      }
+]

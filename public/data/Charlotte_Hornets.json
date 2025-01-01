@@ -1,0 +1,53 @@
+[
+    {
+        "team": "Charlotte Hornets",
+        "games": {
+          "player": "Dell Curry",
+          "stats": 701
+        },
+        "minutesPlayed": {
+          "player": "Kemba Walker",
+          "stats": 20607
+        },
+        "fieldGoals": {
+          "player": "Kemba Walker",
+          "stats": 4164
+        },
+        "fieldGoalAttempts": {
+          "player": "Kemba Walker",
+          "stats": 9962
+        },
+        "rebounds": {
+          "player": "Emeka Okafor",
+          "stats": 3516
+        },
+        "assists": {
+          "player": "Muggsy Bogues",
+          "stats": 5557
+        },
+        "steals": {
+          "player": "Muggsy Bogues",
+          "stats": 1067
+        },
+        "blocks": {
+          "player": "Alonzo Mourning",
+          "stats": 684
+        },
+        "points": {
+          "player": "Kemba Walker",
+          "stats": 12009,
+          "guard": {
+            "player": "Kemba Walker",
+            "stats": 12009
+          },
+          "forward": {
+            "player": "Gerald Wallace",
+            "stats": 7437
+          },
+          "center": {
+            "player": "Brook Lopez",
+            "stats": 10444
+          }
+        }
+      }
+]
